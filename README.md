@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <img alt="Release" src="https://img.shields.io/github/v/release/CCPAST/Skill-Manager-CCswich?label=release">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.7%2B-3776AB.svg?logo=python&logoColor=white">
   <img alt="Zero Dependencies" src="https://img.shields.io/badge/Dependencies-0-6aa84f.svg">
